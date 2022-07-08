@@ -1,4 +1,4 @@
-Ll- 👋 Hi, I’m @Rizwan-Khan007
+- 👋 Hi, I’m @Rizwan-Khan007
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
 - 📫 How to reach me +916260624848
